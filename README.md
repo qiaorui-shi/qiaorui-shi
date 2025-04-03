@@ -6,7 +6,7 @@
   <img height="170px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiaorui-shi&layout=compact&langs_count=8&theme=solarized-light&title_color=fd8c73&text_color=333333&bg_color=ffffff" />
   
   ### 👦🏻 About Me
-  - 🛠️  A Front-End developer and currently working on kingnet.
+  - 🛠️  A Front-end developer, currently working at Kaiying.
   - 🎓  Graduated from Wuhan Engineering University.
   - 📝  Here is my [blog](https://blog.sqryun.xyz/).
   
