@@ -8,7 +8,7 @@
   ### 👦🏻 About Me
   - 🛠️  A Front-End developer and currently working on kingnet.
   - 🎓  Graduated from Wuhan Engineering University.
-  - 📝  Here is my [blog](https://luckyfbb.github.io/blog).
+  - 📝  Here is my [blog]([https://blog-sqryun](https://blog.sqryun.xyz/)).
   
 </div>
 
