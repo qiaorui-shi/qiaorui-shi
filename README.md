@@ -15,7 +15,7 @@
 <br/>
 
 <div align="left">
-<img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=qiaorui-shi&title_color=fd8c73&text_color=333333&bg_color=ffffff" />
+<img height="170px" align="right" src="https://github-readme-stats.vercel.app/api?username=qiaorui-shi&theme=buefy" />
  
 
 ### 🛠️ Tech Stack
