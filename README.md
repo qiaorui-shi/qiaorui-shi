@@ -25,7 +25,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-35495E?style=flat&logo=javascript)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
   ![Node.js](https://img.shields.io/badge/-Node.js-35495E?style=flat&logo=node.js)
-  ![Nest.js](https://img.shields.io/badge/Nest.js-35495E?style=flat&logo=nest.js)
+  ![NestJS](https://img.shields.io/badge/NestJS-35495E?style=flat&logo=nestjs)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-35495E?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-35495E?style=flat&logo=github)
