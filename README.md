@@ -23,8 +23,9 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-35495E?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-35495E?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-35495E?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-35495E?style=flat&logo=node.js)
   ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs)
+  ![Node.js](https://img.shields.io/badge/-Node.js-35495E?style=flat&logo=node.js)
+  ![Nest.js](https://img.shields.io/badge/Nest.js-35495E?style=flat&logo=nest.js)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-35495E?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-35495E?style=flat&logo=github)
